@@ -12,7 +12,7 @@ A beautiful, responsive website for PARMICIA, an Italian restaurant featuring au
 
 ## 🚀 Live Demo
 
-Visit the live website: [PARMICIA Restaurant](https://yourusername.github.io/parmicia-restaurant)
+Visit the live website: [PARMICIA Restaurant](https://DaimAdnan5.github.io/parmicia-restaurant)
 
 ## 🛠️ Technologies Used
 
